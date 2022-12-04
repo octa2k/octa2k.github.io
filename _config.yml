@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:octa2k@yahoo.com"}
   - {title: Github, icon: github, url: "https://octa2k.github.io"}
-  - {title: Instagram, icon: instagram, url: "https://octa2k.github.io"}
+  - {title: Instagram, icon: twitter, url: "https://octa2k.github.io"}
 
 
 comments:
